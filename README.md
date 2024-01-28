@@ -1,3 +1,2 @@
-# Coursera_embedded
-
-This repository contains assignments for the course: Introduction to Embedded Systems Software and Development Environments
+/* Add Author and Project Details here */
+The stats.c file contains the code for the first week's task
